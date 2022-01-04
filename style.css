@@ -45,17 +45,22 @@ h3{
 }
 .expreted{
     height:80%;
-    box-shadow: 10px 10px 30px #d4d4d4;
+    box-shadow: 4px 1px 16px #d4d4dd;
     padding: 5%;
-    margin-left: 6%;
+    margin-left: 2%;
     margin-right: 2%;
     border-radius: 10px;
-    border-left:orange 15px solid;
+    border-left: 8px solid coral;
 }
 .experines{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
 }
-.footer{
+#babyId{
+    border-left:8px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+footer p{
     text-align: center;
 }
